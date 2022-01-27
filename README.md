@@ -2,8 +2,9 @@
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-## Description 
-This project is a full stack web application using the MERN Stack to create an e-commerce website using React and Redux with Stripe payments. 
+## Description
+
+This project is a full stack web application using the MERN Stack to create an e-commerce website using React and Redux with Stripe payments.
 
 ## User Story
 
@@ -13,7 +14,7 @@ I WANT my platform to use Redux to manage global state instead of the Context AP
 SO THAT my website's state management is taken out of the React ecosystem
 ```
 
-## Installation 
+## Installation
 
 1. Clone the repository
 
@@ -25,14 +26,15 @@ git clone git@github.com:LexMastro/redux-store.git
 
 ## Deployed Site Link
 
-[View Deployed Site](https://damp-peak-31725.herokuapp.com/)
+[View Deployed Site](https://radiant-stream-64938.herokuapp.com/)
 
 ## Examples
 
-![Image of Site](website.png)
+![Image of Site](/Assets/website.png)
 
 ## Usage
 
+MERN stack
 Apollo Express
 Express
 Node.js
